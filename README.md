@@ -8,9 +8,13 @@
 <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 </div><br>
 
-## O que você pode fazer:
+<div>
+<h2> O que você pode fazer:</h2>
 
-- ### Selecionar uma das imagens disponíveis ou uma imagem que esteja no seu pc.
-- ### Fazer seu meme e baixá-lo.
+<ul>
+  <li>Selecionar uma das imagens disponíveis ou uma imagem que esteja no seu pc.</li>
+  <li> Fazer seu meme e baixá-lo.</li>
+</ul>
+</div><br>
 
 ![](readme-image.jpeg)
